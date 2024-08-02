@@ -1,0 +1,10 @@
+exemptions:
+  - check: summary_table
+    reason: "Not a CNCF project"
+  - check: artifacthub_badge
+    reason: "Not a CNCF project"
+  - check: cla
+    reason: "Uses DCO"
+  - check: slack_presence
+    reason: "Uses Discord"
+
